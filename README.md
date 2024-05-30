@@ -1,0 +1,2 @@
+This project aimed to compare binary classification in two-dimensional datasets. Four simulated datasets were analyzed using three different optimization methods. The results enable an evaluation of the effectiveness and accuracy of each method in binary classification.
+This project is part of the Numerical Probabilities and Computational Statistics course at Sorbonne University and was carried out in collaboration with my colleague Mahir DURSUNOGLU.
